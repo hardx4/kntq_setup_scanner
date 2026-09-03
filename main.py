@@ -6,7 +6,7 @@ import time
 URL = "https://api.hyperliquid.xyz/info"
 COIN = "@334"
 ASSET_NAME = "KNTQ"
-test = 1
+test = 0
 
 MAX_CANDLES_PER_REQUEST = 4999
 INTERVALO_SEGUNDOS = 60 * 60  # 1 hora entre varreduras
